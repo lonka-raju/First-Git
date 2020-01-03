@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("First - git pushed & commited..")
         
+        print("wajid first push")
+        
         self.callingFun()
     }
     
