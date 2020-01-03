@@ -22,7 +22,7 @@ class ViewController: UIViewController {
     
     func callingFun(){
         print("Hell world")
-        print("w world")
+        print(" world")
     }
     
 }
