@@ -16,13 +16,14 @@ class ViewController: UIViewController {
         print("First - git pushed & commited..")
         
         print("wajid first push")
-        
+        print("33333 wajid first push")
         self.callingFun()
     }
     
     func callingFun(){
         print("Hell world")
         print(" world")
+        print("Hell world")
     }
     
 }
