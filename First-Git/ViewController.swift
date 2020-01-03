@@ -27,6 +27,8 @@ class ViewController: UIViewController {
         print("work started... world")
         print("one two")
         print("in view controler changes")
+        print("three")
+        
     }
     
 }
