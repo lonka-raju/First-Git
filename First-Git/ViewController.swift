@@ -14,6 +14,12 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("First - git pushed & commited..")
+        
+        self.callingFun()
+    }
+    
+    func callingFun(){
+        print("Hell world")
     }
     
 }
